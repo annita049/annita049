@@ -11,18 +11,9 @@
 
 ## 📊 GitHub Stats  
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=annita049&show_icons=true&theme=dark" width="48%" alt="GitHub Stats"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annita049&theme=dark" width="50%" alt="GitHub Streak"/> 
-</p>
-
-
----
-
-## 🔥 Top Languages  
-<p align="center"> 
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annita049&layout=compact&theme=dark" width="38%" alt="Top Languages" align="left"/>  
-  <img src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="28%" alt="Pixel Coding GIF"/>
-  <div height="30px" width="30px"></div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annita049&theme=dark" width="50%" alt="GitHub Streak"/> 
 </p>
 
 
